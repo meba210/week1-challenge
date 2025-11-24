@@ -6,7 +6,7 @@ from nltk.tokenize import word_tokenize
 from collections import Counter
 import os
 
-# Download NLTK data
+# Download NLTK datas
 nltk.download('punkt', quiet=True)
 
 
