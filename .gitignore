@@ -1,0 +1,7 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+reports/
+venv/
+__pyache__
+*.__pyache__
+data/
+*.csv
