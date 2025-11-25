@@ -113,4 +113,4 @@ def calculate_daily_returns(data):
     data = data.reset_index()
     data['Date'] = pd.to_datetime(data['Date']).dt.date
     print("Calculated daily returns")
-    return data[['Date', 'Daily_Return']]
+
